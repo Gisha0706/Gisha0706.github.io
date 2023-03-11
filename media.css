@@ -1,0 +1,9 @@
+@media screen and (max-width:991px){
+    .header_3{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .header_3>div{
+       width: 45%;
+    }
+}
